@@ -1,3 +1,4 @@
+# hospital-management
 Admin Dashboard:
 ![image](https://github.com/user-attachments/assets/8914b60a-d23f-4b77-9b48-06d0a3d17665)
 Doctor Dashboard:
